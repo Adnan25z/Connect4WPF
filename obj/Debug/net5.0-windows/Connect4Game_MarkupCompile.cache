@@ -1,0 +1,20 @@
+﻿Connect4Game
+
+
+winexe
+C#
+.cs
+C:\Users\adnan\OneDrive\Documents\OOP\Connect4 - HD - Main\Connect4Project\obj\Debug\net5.0-windows\
+Connect4Game
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+C:\Users\adnan\OneDrive\Documents\OOP\Connect4 - HD - Main\Connect4Project\App.xaml
+1517962139
+
+33-396430463
+226-1004049738
+Styles\ButtonStyle.xaml;Styles\Colors.xaml;Styles\Fonts.xaml;Styles\GameStyle.xaml;Styles\TextBoxStyle.xaml;Views\ChooseColorView.xaml;Views\ChooseDifficultyView.xaml;Views\CustomAlertView.xaml;Views\GameMenuView.xaml;Views\GamePlayView.xaml;Views\LoadGameView.xaml;Views\SaveGameView.xaml;Views\ShellView.xaml;Views\SplashScreenView.xaml;Views\UserDetailsView.xaml;
+
+False
+
