@@ -2,6 +2,7 @@
 
 ## Introduction
 This project is a Connect 4 game developed using C# and WPF, incorporating the Caliburn.Micro library. The game uses object-oriented principles along with the MVVM architecture model and includes AI functionality for setting the computer player's difficulty using the Minimax algorithm.
+![Gameplay Image](Images/connect4.gif)
 
 ## Table of Contents
 - [Introduction](#introduction)
